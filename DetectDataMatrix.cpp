@@ -19,8 +19,6 @@ please feel free to contact us using http://www.aspose.com/community/forums/defa
 #include <BarCodeRecognition/Recognition/RecognitionSession/DecodeTypes/DecodeType.h>
 #include <BarCodeRecognition/Recognition/RecognitionSession/BarCodeReader.h>
 
-#include "RunExamples.h"
-
 
 using namespace Aspose::BarCode::BarCodeRecognition;
 namespace Aspose {
