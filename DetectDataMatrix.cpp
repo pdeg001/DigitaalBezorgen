@@ -26,8 +26,7 @@ using namespace Aspose::BarCode::BarCodeRecognition;
 namespace Aspose {
 
 	namespace BarCode {
-
-		namespace Examples {
+	
 
 			namespace CSharp {
 
@@ -74,6 +73,5 @@ namespace Aspose {
 
 				} // namespace ManageAndOptimizeBarCodeRecognition
 			} // namespace CSharp
-		} // namespace Examples
 	} // namespace BarCode
 } // namespace Aspose
